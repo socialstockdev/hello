@@ -1,0 +1,16 @@
+{
+  "name": "@socialstockdev/hello",
+  "version": "1.0.0",
+  "description": "Example GitHub Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "https://github.com/socialstockdev/hello.git",
+  "author": "Sanchit Rk",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^26.0.20",
+    "jest": "^26.6.3"
+  }
+}
